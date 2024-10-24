@@ -9,5 +9,4 @@ public class SpringArchetypeRestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringArchetypeRestApplication.class, args);
 	}
-
 }
